@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ib170091_dbSet" targetNamespace="http://tempuri.org/ib170091_dbSet.xsd" xmlns:mstns="http://tempuri.org/ib170091_dbSet.xsd" xmlns="http://tempuri.org/ib170091_dbSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ib170091_dbSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ib170091_dbSet" msprop:Generator_UserDSName="ib170091_dbSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbl_Polozeni" msprop:Generator_TableClassName="tbl_PolozeniDataTable" msprop:Generator_TableVarName="tabletbl_Polozeni" msprop:Generator_RowChangedName="tbl_PolozeniRowChanged" msprop:Generator_TablePropName="tbl_Polozeni" msprop:Generator_RowDeletingName="tbl_PolozeniRowDeleting" msprop:Generator_RowChangingName="tbl_PolozeniRowChanging" msprop:Generator_RowEvHandlerName="tbl_PolozeniRowChangeEventHandler" msprop:Generator_RowDeletedName="tbl_PolozeniRowDeleted" msprop:Generator_RowClassName="tbl_PolozeniRow" msprop:Generator_UserTableName="tbl_Polozeni" msprop:Generator_RowEvArgName="tbl_PolozeniRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Rb" msprop:Generator_ColumnVarNameInTable="columnRb" msprop:Generator_ColumnPropNameInRow="Rb" msprop:Generator_ColumnPropNameInTable="RbColumn" msprop:Generator_UserColumnName="Rb" type="xs:string" minOccurs="0" />
+              <xs:element name="Predmet_" msprop:Generator_ColumnVarNameInTable="columnPredmet_" msprop:Generator_ColumnPropNameInRow="Predmet_" msprop:Generator_ColumnPropNameInTable="Predmet_Column" msprop:Generator_UserColumnName="Predmet_" type="xs:string" minOccurs="0" />
+              <xs:element name="Ocjena_" msprop:Generator_ColumnVarNameInTable="columnOcjena_" msprop:Generator_ColumnPropNameInRow="Ocjena_" msprop:Generator_ColumnPropNameInTable="Ocjena_Column" msprop:Generator_UserColumnName="Ocjena_" type="xs:int" minOccurs="0" />
+              <xs:element name="Godina_" msprop:Generator_ColumnVarNameInTable="columnGodina_" msprop:Generator_ColumnPropNameInRow="Godina_" msprop:Generator_ColumnPropNameInTable="Godina_Column" msprop:Generator_UserColumnName="Godina_" type="xs:string" minOccurs="0" />
+              <xs:element name="Datum_" msprop:Generator_ColumnVarNameInTable="columnDatum_" msprop:Generator_ColumnPropNameInRow="Datum_" msprop:Generator_ColumnPropNameInTable="Datum_Column" msprop:Generator_UserColumnName="Datum_" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

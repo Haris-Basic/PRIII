@@ -1,0 +1,172 @@
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Ispit_IB170091.frm_Izvjestaj_IB170091.resources
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Hary\Desktop\Template\Template\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Ispit_IB170091.KorisnikSlikePregled_IB170091.resources
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\DLWMS.db
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe.config
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.exe
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\cSharpIntroWinForms.pdb
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\EntityFramework.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\EnvDTE.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\stdole.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\EntityFramework.xml
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csprojAssemblyReference.cache
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Ispit_IB170091.frm_Izvjestaj_IB170091.resources
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Ispit_IB170091.KorisnikSlikePregled_IB170091.resources
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.KorisniciAdmin.resources
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Login.resources
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Registracija.resources
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.P8.KorisniciPolozeniPredmeti.resources
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.Properties.Resources.resources
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.GenerateResource.cache
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\RdlCompile.cache
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\RdlCompile.compiled
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.csproj.CopyComplete
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.exe
+C:\Users\Hary\Desktop\cSharp projekti\PRIII_09072020\PRIII_NPP2018_19_09072020\cSharpIntroWinForms\obj\Debug\cSharpIntroWinForms.pdb
